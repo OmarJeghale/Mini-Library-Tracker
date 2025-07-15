@@ -1,3 +1,4 @@
+# Define db tables
 from sqlalchemy import Column, Integer, String, Float, ForeignKey
 from sqlalchemy.orm import declarative_base, relationship
 
